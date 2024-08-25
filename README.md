@@ -20,4 +20,4 @@ This project is divided into three parts, each focusing on different techniques 
 from sklearn.datasets import make_circles
 circles_X, circles_y = make_circles(n_samples=1000, random_state=123, noise=0.1, factor=0.2)
 ```
-- Notebook: 'Part2_kmeans_Plutonium.ipynb'
+- Notebook: 'Part3_DBSCAN_Circles.ipynb'
